@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: url("../../img/Zombies.jpg");
+  height: 500px;
+}
+
+.jumbo-container {
+    color: white;
+}
