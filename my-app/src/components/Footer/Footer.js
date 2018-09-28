@@ -4,8 +4,8 @@ import "./Footer.css";
 class Footer extends Component {
   render() {
     return (
-      <div>
-        <h1>Footer</h1>
+      <div className="copy-right">
+        <h1>&copy; Kris Wilson</h1>
       </div>
     );
   }

@@ -4,8 +4,14 @@ import "./Jumbotron.css";
 class Jumbotron extends Component {
   render() {
     return (
-      <div className="jumbo-container">
-        <h1 className="jumbotron">Jumbotron</h1>
+      <div className="jumbotron">
+        <div className="jumbo-container">
+          <h1>Clicky Game!</h1>
+          <h3>
+            Click on an image to earn points, but don't click on any more than
+            once!
+          </h3>
+        </div>
       </div>
     );
   }

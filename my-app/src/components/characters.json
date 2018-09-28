@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--v4gcX0kn--/c_scale,f_auto,fl_progressive,q_80,w_800/nfd130wuwm5j6h42l0d9.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Negan",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/the-walking-dead-season-8-negan-dean-morgan-700x1000-cast.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Carl",
+    "image": "http://braindamaged.fr/wp-content/uploads/2018/02/The-Walking-Dead-photo-saison-8b-premi%C3%A8re-2-carl.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Daryl",
+    "image": "https://i.ebayimg.com/images/g/kdMAAOSw2RdZiOet/s-l300.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Glenn",
+    "image": "https://images.hellogiggles.com/uploads/2016/10/24111748/glenn1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Maggie",
+    "image": "https://fsmedia.imgix.net/15/8f/8d/28/d109/4b70/bbae/9a7e8ea8f881/maggie-walking-dead.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Michonne",
+    "image": "https://cdn.jwplayer.com/thumbs/wYfnOlwU-720.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Carol",
+    "image": "https://cdn.jwplayer.com/thumbs/DJ2LLlO2-720.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Shane",
+    "image": "https://brotherpeacemaker.files.wordpress.com/2012/02/shane-walsh.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Morgan",
+    "image": "https://i.pinimg.com/originals/38/4a/f9/384af94d1f3cb332b2d925f3b36699e0.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "The Governor",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/the-governor-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Merle",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/MerleDixon.jpg/225px-MerleDixon.jpg",
+    "clicked": false
+  }
+]

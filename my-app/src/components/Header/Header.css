@@ -1,0 +1,23 @@
+ul li {
+  display: inline-block;
+  list-style-type: none;
+  padding-top: 20px;
+  /* padding-bottom: 5px; */
+  font-weight: bold;
+}
+
+nav {
+  font-size: 30px;
+  /* background: #767875; */
+  background: #424d51;
+  text-align: center;
+  height: 100px;
+  color: White;
+  border-bottom: 6px rgb(0, 0, 0, 0.7) solid;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

@@ -1,8 +1,17 @@
 .jumbotron {
-  background-image: url("../../img/Zombies.jpg");
+  /* background: #424d51; */
+  background-image: url("http://images.amcnetworks.com/amc.com/wp-content/uploads/2017/09/the-walking-dead-season-8-key-art-rick-lincoln-daryl-reedus-1200x707.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  background-size: 100% 100%;
   height: 500px;
+  border-bottom: 6px rgb(0, 0, 0) solid;
 }
 
 .jumbo-container {
-    color: white;
+  padding-top: 325px;
+  color: #b12126;
+  text-align: center;
+  height: 300px;
 }

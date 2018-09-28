@@ -1,5 +1,8 @@
 * {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-  background: purple;
+  font-family: "Signika", sans-serif;
+}
+
+body {
+  background: #424d51;
 }
